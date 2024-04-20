@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\lab-csharp-1\bin\Debug\net8.0\lab-csharp-1.exe
+C:\Users\PC\source\repos\lab-csharp-1\bin\Debug\net8.0\lab-csharp-1.deps.json
+C:\Users\PC\source\repos\lab-csharp-1\bin\Debug\net8.0\lab-csharp-1.runtimeconfig.json
+C:\Users\PC\source\repos\lab-csharp-1\bin\Debug\net8.0\lab-csharp-1.dll
+C:\Users\PC\source\repos\lab-csharp-1\bin\Debug\net8.0\lab-csharp-1.pdb
+C:\Users\PC\source\repos\lab-csharp-1\obj\Debug\net8.0\lab-csharp-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\lab-csharp-1\obj\Debug\net8.0\lab-csharp-1.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\lab-csharp-1\obj\Debug\net8.0\lab-csharp-1.AssemblyInfo.cs
+C:\Users\PC\source\repos\lab-csharp-1\obj\Debug\net8.0\lab-csharp-1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\lab-csharp-1\obj\Debug\net8.0\lab-csharp-1.dll
+C:\Users\PC\source\repos\lab-csharp-1\obj\Debug\net8.0\refint\lab-csharp-1.dll
+C:\Users\PC\source\repos\lab-csharp-1\obj\Debug\net8.0\lab-csharp-1.pdb
+C:\Users\PC\source\repos\lab-csharp-1\obj\Debug\net8.0\lab-csharp-1.genruntimeconfig.cache
+C:\Users\PC\source\repos\lab-csharp-1\obj\Debug\net8.0\ref\lab-csharp-1.dll
